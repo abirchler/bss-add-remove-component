@@ -1,0 +1,18 @@
+{
+  "name": "bss-add-remove-component",
+  "version": "0.0.1",
+  "description": "Web component for adding and removing rows",
+  "main": "bss-add-remove-component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abirchler/bss-add-remove-component.git"
+  },
+  "author": "Aaron Birchler",
+  "bugs": {
+    "url": "https://github.com/abirchler/bss-add-remove-component/issues"
+  },
+  "homepage": "https://github.com/abirchler/bss-add-remove-component#readme"
+}
